@@ -1,3 +1,6 @@
+[B]3.0.5[/B]
+1. GUI bump.
+
 [B]3.0.4[/B]
 1. Skin Shortcuts menu fix.
 2. Minor widget fixes.
