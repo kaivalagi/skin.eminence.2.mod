@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-    id="skin.eminence.2.mod"
-    version="3.0.4"
-    name="Eminence 2 MOD"
-    provider-name="jurialmunkey - Mod by Guilouz - Mod by Alanon - Mod by hawkeyexp">
+    id="skin.eminence.3"
+    version="3.0.5"
+    name="Eminence 3"
+    provider-name="jurialmunkey - Mod by Guilouz, Alanon, hawkeyexp, kaivalagi">
     <requires>
-        <import addon="xbmc.gui" version="5.14.0"/>
+        <import addon="xbmc.gui" version="5.15.0"/>
         <import addon="script.skinshortcuts" version="1.0.13"/>
         <import addon="script.skin.helper.service" version="1.1.23"/>
 		<import addon="script.skin.helper.widgets" version="1.0.35"/>
@@ -36,6 +36,9 @@
 		</assets>	
 		<news> Changelog: 
 		
+		[B]3.0.5[/B]
+		1. GUI bump.
+
 		[B]3.0.4[/B]
 		1. Skin Shortcuts menu fix.
 		2. Minor widget fixes.
