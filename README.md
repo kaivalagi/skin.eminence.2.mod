@@ -1,6 +1,6 @@
 # skin.eminence.3
 
-Authors: jurialmunkey - Mod by Guilouz - Mod by Alanon
+Authors: jurialmunkey - Mod by Guilouz, Alanon, hawkeyexp, kaivalagi
 
 IMPORTANT SETUP TIPS / FAQ: 
 
